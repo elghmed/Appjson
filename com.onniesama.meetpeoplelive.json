@@ -7,42 +7,42 @@
         "mediumrectangle": ["admob", "facebook", "ironsrc"]
     },
     "facebook": {
-        "native": "IMG_16_9_LINK#YOUR_PLACEMENT_ID",
-        "banner": "IMG_16_9_LINK#YOUR_PLACEMENT_ID",
-        "interstitial": "IMG_16_9_LINK#YOUR_PLACEMENT_ID",
-        "nativebanner": "IMG_16_9_LINK#YOUR_PLACEMENT_ID",
-        "mediumrectangle": "IMG_16_9_LINK#YOUR_PLACEMENT_ID"
+        "native": "",
+        "banner": "",
+        "interstitial": "",
+        "nativebanner": "",
+        "mediumrectangle": ""
     },
     "admob": {
-        "publisher": "pub-3940256099942544",
-        "banner": "ca-app-pub-3940256099942544/6300978111",
-        "interstitial": "ca-app-pub-3940256099942544/1033173712",
-        "largebanner": "ca-app-pub-3940256099942544/6300978111",
-        "mediumrectangle": "ca-app-pub-3940256099942544/6300978111"
+        "publisher": "",
+        "banner": "",
+        "interstitial": "",
+        "largebanner": "",
+        "mediumrectangle": ""
     },
     "startapp": {
         "app": ""
     },
     "ironsrc":{
-        "app": ""
+        "app": "101b73271"
     },
     "content": {
         "tip1": {
             "button": "chanti",
-            "title": "Title 1 paragraph text 1 paragraph text 1 paragraph text 1 paragraph text 1 paragraph",
-            "article": "mamadooo paragraph text 1 paragraph text 1 paragraph text 1 paragraph text 1 paragraph text 1 paragraph text 1 paragraph text 1 paragraph text 1 paragraph text 1 paragraph text 1 paragraph text 1 paragraph text 1 paragraph text 1 paragraph text 1 "
+            "title": "Free Info About Omeglee",
+            "article": "Omegle could be a free on-line chat area wherever random strangers will anonymously meet from round the world and celebrate. You dont got to register Associate in Nursing account or offer any personal data to start out chatting. "
         },
         "tip2": {
-            "title": "Title 2 paragraph text 1 paragraph text 1 paragraph text 1 paragraph text 1 paragraph",
-            "article": "paragraph text 2 paragraph text 2 paragraph text 2 paragraph text 2 paragraph text 2 paragraph text 2 paragraph text 2 paragraph text 2 paragraph text 2 paragraph text 2 paragraph text 2 paragraph text 2 paragraph text 2 paragraph text 2 paragraph text 2 paragraph text 2"
+            "title": "New Tips And Tricks For Omeglee",
+            "article": "Although the platform is basically safe, you must watch out given the new and uncontrollable attribute. The folks you encounter might not behave befittingly which theyre entirely accountable for their own behavior."
         },
         "tip3": {
-            "title": "Title 3 paragraph text 1 paragraph text 1 paragraph text 1 paragraph text 1 paragraph",
-            "article": "paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 "
+            "title": "Are the chats and video monitored",
+            "article": "You can bear the privacy policy statement to know however information is methoded to boost the observation and social control process, There square measure many random chat sites accessible like Chatrolete, Chatrandoom, Bazocaam, ChatAvenuee. "
         },
         "tip4": {
-            "title": "Title 4 paragraph text 1 paragraph text 1 paragraph text 1 paragraph text 1 paragraph",
-            "article": "paragraph text 4 paragraph text 4 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 "
+            "title": "How To Start a simply Chat",
+            "article": "To begin chatting clearly click on the Text or Video option. You also can upload your interests (belongings you wanna communicate about) so that you can be paired with customers of equal interest. If no fit is found, youll be related to a random stranger instead. "
         }
     }
 }
