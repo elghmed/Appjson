@@ -1,0 +1,26 @@
+{
+    "net": {
+        "nat": ["am", "fb", "is"],
+        "ban": ["am", "fb", "is"],
+        "int": ["am", "fb", "is"],
+        "natban": ["am", "fb", "is"],
+        "medrec": ["am", "fb", "is"]
+    },
+    "fb": {
+        "nat": "IMG_16_9_LINK#YOUR_PLACEMENT_ID",
+        "ban": "IMG_16_9_LINK#YOUR_PLACEMENT_ID",
+        "int": "IMG_16_9_LINK#YOUR_PLACEMENT_ID",
+        "natban": "IMG_16_9_LINK#YOUR_PLACEMENT_ID",
+        "medrec": "IMG_16_9_LINK#YOUR_PLACEMENT_ID"
+    },
+    "am": {
+        "pub": "pub-3940256099942544",
+        "ban": "ca-app-pub-3940256099942544/6300978111",
+        "int": "ca-app-pub-3940256099942544/1033173712",
+        "larban": "ca-app-pub-3940256099942544/6300978111",
+        "medrec": "ca-app-pub-3940256099942544/6300978111"
+    },
+    "is":{
+        "app": ""
+    }
+}
