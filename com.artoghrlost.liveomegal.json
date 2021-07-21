@@ -8,8 +8,8 @@
     },
     "facebook": {
         "native": "340987784281127_340991590947413",
-        "banner": "340987784281127_340990104280895",
-        "interstitial": "IMG_16_9_LINK#YOUR_PLACEMENT_ID",
+        "banner": "340987784281127_340992224280683",
+        "interstitial": "340987784281127_340990104280895",
         "nativebanner": "340987784281127_340991120947460",
         "mediumrectangle": "340987784281127_340992874280618"
     },
@@ -32,16 +32,16 @@
             "article": "Omegle is a free social networking website in which users are connected with other unknown users at random in order to chat via video, text or audio. This is known as a ‘virtual chatroom’. "
         },
         "tip2": {
-            "title": "Title 2 paragraph text 1 paragraph text 1 paragraph text 1 paragraph text 1 paragraph",
-            "article": "paragraph text 2 paragraph text 2 paragraph text 2 paragraph text 2 paragraph text 2 paragraph text 2 paragraph text 2 paragraph text 2 paragraph text 2 paragraph text 2 paragraph text 2 paragraph text 2 paragraph text 2 paragraph text 2 paragraph text 2 paragraph text 2"
+            "title": "How much does it cost?",
+            "article": "The Omegle website is free to access, and the apps are free to download and use as they connect to a user’s existing data plan or Wi-Fi to send and receive messages. There may be charges if the user is not connected to Wi-Fi or they have exceeded the data limit on their device. "
         },
         "tip3": {
-            "title": "Title 3 paragraph text 1 paragraph text 1 paragraph text 1 paragraph text 1 paragraph",
-            "article": "paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 "
+            "title": "Video Chat in omeglee",
+            "article": "Video chatting in Omegle has three different options- moderated, unmoderated and adult. Omegle state that the blue video button is the ‘moderated’ section of the site. By clicking this button the user is taken directly to live video and text chat. No warning message appears to alert the user of sexual content (as it does in the unmoderated and adult sections below). "
         },
         "tip4": {
-            "title": "Title 4 paragraph text 1 paragraph text 1 paragraph text 1 paragraph text 1 paragraph",
-            "article": "paragraph text 4 paragraph text 4 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 "
+            "title": "Aduult chat in Omeglee",
+            "article": "The other option for video chat is the ‘adult’ (18+) section, where users can view adult content by accessing an external adult pornography site. When the user clicks the ‘adult’ option, a message appears warning the user of sexual material and asks the user to ‘confirm’ they are over 18. If the user confirms they are over 18 they are automatically redirected to the external site."
         },
         "whatnew1": {
             "title": "Discover The Omeglee unmoderated",
