@@ -7,11 +7,11 @@
         "mediumrectangle": ["admob", "facebook", "ironsrc"]
     },
     "facebook": {
-        "native": "IMG_16_9_LINK#YOUR_PLACEMENT_ID",
-        "banner": "IMG_16_9_LINK#YOUR_PLACEMENT_ID",
+        "native": "340987784281127_340991590947413",
+        "banner": "340987784281127_340990104280895",
         "interstitial": "IMG_16_9_LINK#YOUR_PLACEMENT_ID",
-        "nativebanner": "IMG_16_9_LINK#YOUR_PLACEMENT_ID",
-        "mediumrectangle": "IMG_16_9_LINK#YOUR_PLACEMENT_ID"
+        "nativebanner": "340987784281127_340991120947460",
+        "mediumrectangle": "340987784281127_340992874280618"
     },
     "admob": {
         "publisher": "",
@@ -28,8 +28,8 @@
     },
     "content": {
         "tip1": {
-            "title": "Title 1 paragraph text 1 paragraph text 1 paragraph text 1 paragraph text 1 paragraph",
-            "article": "mamadooo paragraph text 1 paragraph text 1 paragraph text 1 paragraph text 1 paragraph text 1 paragraph text 1 paragraph text 1 paragraph text 1 paragraph text 1 paragraph text 1 paragraph text 1 paragraph text 1 paragraph text 1 paragraph text 1 "
+            "title": "How to Use Omeglee",
+            "article": "Omegle is a free social networking website in which users are connected with other unknown users at random in order to chat via video, text or audio. This is known as a ‘virtual chatroom’. "
         },
         "tip2": {
             "title": "Title 2 paragraph text 1 paragraph text 1 paragraph text 1 paragraph text 1 paragraph",
