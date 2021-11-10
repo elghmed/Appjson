@@ -7,18 +7,18 @@
         "mediumrectangle": ["admob", "facebook", "ironsrc"]
     },
     "facebook": {
-        "native": "IMG_16_9_LINK#YOUR_PLACEMENT_ID",
-        "banner": "IMG_16_9_LINK#YOUR_PLACEMENT_ID",
-        "interstitial": "IMG_16_9_LINK#YOUR_PLACEMENT_ID",
-        "nativebanner": "IMG_16_9_LINK#YOUR_PLACEMENT_ID",
-        "mediumrectangle": "IMG_16_9_LINK#YOUR_PLACEMENT_ID"
+        "native": "",
+        "banner": "",
+        "interstitial": "",
+        "nativebanner": "",
+        "mediumrectangle": ""
     },
     "admob": {
-        "publisher": "pub-3940256099942544",
-        "banner": "ca-app-pub-3940256099942544/6300978111",
-        "interstitial": "ca-app-pub-3940256099942544/1033173712",
-        "largebanner": "ca-app-pub-3940256099942544/6300978111",
-        "mediumrectangle": "ca-app-pub-3940256099942544/6300978111"
+        "publisher": "",
+        "banner": "",
+        "interstitial": "",
+        "largebanner": "",
+        "mediumrectangle": ""
     },
     "startapp": {
         "app": ""
@@ -28,24 +28,24 @@
     },
     "content": {
         "tip1": {
-            "title": "Title 1 paragraph text 1 paragraph text 1 paragraph text 1 paragraph text 1 paragraph",
-            "article": "mamadooo paragraph text 1 paragraph text 1 paragraph text 1 paragraph text 1 paragraph text 1 paragraph text 1 paragraph text 1 paragraph text 1 paragraph text 1 paragraph text 1 paragraph text 1 paragraph text 1 paragraph text 1 paragraph text 1 "
+            "title": "About I am Fish",
+            "article": "This game is pretty damn adorable let me start by saying that. The plot of I Am Fish is that there are four fish who are best friends and are living their best fish life. There is Goldfish, Pufferfish, Piranha, and Flying Fish. They are all getting along great until they are separated and now each fish is trying to find their way back to their friends"
         },
         "tip2": {
-            "title": "Title 2 paragraph text 1 paragraph text 1 paragraph text 1 paragraph text 1 paragraph",
-            "article": "paragraph text 2 paragraph text 2 paragraph text 2 paragraph text 2 paragraph text 2 paragraph text 2 paragraph text 2 paragraph text 2 paragraph text 2 paragraph text 2 paragraph text 2 paragraph text 2 paragraph text 2 paragraph text 2 paragraph text 2 paragraph text 2"
+            "title": "How To play",
+            "article": "The first level is pretty easy, since its teaching you the basics. First, you want to roll around the shelf, drop down onto the lower shelves, and then to the floor. Behind the desk is your first bread piece, After that, you roll onto the balcony and across your first powerline to the check point. Take the next Power lines."
         },
         "tip3": {
-            "title": "Title 3 paragraph text 1 paragraph text 1 paragraph text 1 paragraph text 1 paragraph",
-            "article": "paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 "
+            "title": "New Tips and Tricks",
+            "article": "Our default control scheme is the most accessible one. Should you find yourself not able to control the fish you might have activated the Bossa Style control scheme accidentally (which is controller exclusive). Its way more challenging to control the fish with it. Wed recommend the default scheme for your first playthrough. "
         },
         "tip4": {
-            "title": "Title 4 paragraph text 1 paragraph text 1 paragraph text 1 paragraph text 1 paragraph",
-            "article": "paragraph text 4 paragraph text 4 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 "
+            "title": "Best Things To Know",
+            "article": "NO NEED TO BE A BRAIN STURGEON Swim, roll, glide, chomp, flip flop, inflate, fly and bite your way through enthralling challenges. A simple, intuitive control scheme leaves no excuses should your fish perish leaving you feeling very gill-ty."
         },
         "whatnew1": {
-            "title": "New Feauture",
-            "article": "1 whats newssss paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 "
+            "title": "What New",
+            "article": "Meet our heroes! Goldfish - cheerful, brave, and adventurous, a natural born swimmer! Pufferfish – a little slow but kind-hearted who can also puff up into a ball and roll across land"
         }
     }
 }
