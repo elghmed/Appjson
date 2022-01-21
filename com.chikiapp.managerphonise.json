@@ -16,13 +16,13 @@
         "mediumrectangle": ""
     },
     "tapdaq": {
-        "app": "",
-        "client": ""
+        "app": "61ea0d8c08fe6c2d735d77e0",
+        "client": "6b297349-c64e-4e44-bbf8-2dacd104875b"
     },
     "yandex": {
-        "native": "",
-        "banner": "",
-        "interstitial": ""
+        "native": "R-M-1480201-3",
+        "banner": "R-M-1480201-2",
+        "interstitial": "R-M-1480201-1"
     },
     "admob": {
         "publisher": "",
@@ -32,7 +32,7 @@
         "mediumrectangle": ""
     },
     "startapp": {
-        "app": ""
+        "app": "200564825"
     },
     "ironsrc":{
         "app": ""
