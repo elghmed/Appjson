@@ -8,17 +8,17 @@
     },
     "facebook": {
         "native": "",
-        "banner": "340987784281127_340992224280683",
+        "banner": "",
         "interstitial": "",
         "nativebanner": "",
         "mediumrectangle": ""
     },
     "admob": {
-        "publisher": "pub-1922691991665093",
-        "banner": "ca-app-pub-1922691991665093/9573725509",
-        "interstitial": "ca-app-pub-1922691991665093/5826052183",
-        "largebanner": "ca-app-pub-1922691991665093/5771401236",
-        "mediumrectangle": "ca-app-pub-1922691991665093/4458319560"
+        "publisher": "",
+        "banner": "",
+        "interstitial": "",
+        "largebanner": "",
+        "mediumrectangle": ""
     },
     "startapp": {
         "app": ""
