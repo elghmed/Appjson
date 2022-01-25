@@ -9,11 +9,11 @@
         "mediumrectangle": ["facebook", "admob", "yandex", "startapp"]
     },
     "facebook": {
-        "native": "",
+        "native": "1302644003442209_1532129580493649",
         "banner": "",
         "interstitial": "",
-        "nativebanner": "",
-        "mediumrectangle": ""
+        "nativebanner": "1302644003442209_1532129973826943",
+        "mediumrectangle": "1302644003442209_1485807215125886"
     },
     "tapdaq": {
         "app": "61ea0d8c08fe6c2d735d77e0",
