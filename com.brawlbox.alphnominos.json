@@ -37,24 +37,24 @@
     },
     "guide": {
         "feauture": {
-            "title": "What is Lorem Ipsum?",
-            "article": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+            "title": "What's new in the latest version",
+            "article": "Club League is here with clubs made of 30 players. Adds new power levels and gears. Fixes several bugs."
         },
         "tip1": {
-            "title": "What is Lorem Ipsum?",
-            "article": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+            "title": "About Brawl Stars",
+            "article": "Brawl Stars is an online multiplayer fighting game in which teams of 3 players have to fight each other for different targets depending on the game mode Brawl Stars is an entertaining online multiplayer fighting game with a visual aspect, animations, and sound effects that remind us of games for arcade machines that are probably now more than twenty years old."
         },
         "tip2": {
-            "title": "Why do we use it?",
-            "article": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like)."
+            "title": "Build your team and set out to fight",
+            "article": "The thing is that there was no need at all to improve its graphical aspect: its developers have simply had to adapt the title to modern times to make the most of the advantages of Internet connectivity. That's at least what the guys at Supercell have done, releasing a very fun fighting game which we can play with our friends or with users from anywhere around the world."
         },
         "tip3": {
-            "title": "Where does it come from?",
-            "article": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of 'de Finibus Bonorum et Malorum'(The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, comes from a line in section 1.10.32."
+            "title": "How To Get the right build ?",
+            "article": "Before any match, you should focus on getting the correct build for the Brawler you want to play as. In solo Showdown Brawl Stars, a build consists of a Brawler, its gadgets, and also its star power. Let’s use a practical example: Crow. When playing Crow in a match, it’s very common to see players choosing the Carrion Crow star power, as it is very flashy and effective. I mean, it deals over 152 damage with its main attack when the enemy is below 50% HP, and the poison deals extra damage, which is pretty deadly. And although Carrion Crow is a favorite of mine for duo Showdown, it is definitely not my first choice for doing it solo. My main goal, and advice to you, is to focus on surviving for as long as possible, and to achieve that, you’ll have to go with the Extra Toxic star power."
         },
         "tip4": {
-            "title": "Where can I get some?",
-            "article": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc."
+            "title": "How To Make the most out of Modifiers?",
+            "article": "Energy Drink: You can choose the Energy Drink  or ED  modifier, which is an incredibly random modifier. The Energy Drink spawns at a random location on the map from time to time, and gives the player who drinks it twice the damage they usually deal, and a speed boost of 200 points. If you spot one or more players using ED, then my suggestion is to lay low, camp out near the borders, and wait for them to go full Rambo on each other. When the dust settles, go out and finish off the survivors. It might feel like a cowards approach, but when facing a bunch of enemies on steroids, its best to play smart. Angry Robo: When playing with the Angry Robo modifier, a huge robot will spawn and attack the closest Brawler, even if they are hiding in a bush. When the Robo is defeated, the player who defeated it will receive three Power Cubes, making their own life much easier."
         }
     }
 }
