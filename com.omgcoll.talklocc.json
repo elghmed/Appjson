@@ -1,0 +1,60 @@
+{
+    "networks": {
+        "native": ["facebook", "admob", "startapp"],
+        "banner": ["facebook", "admob", "startapp", "ironsrc"],
+        "interstitial": ["facebook", "admob", "tapdaq", "startapp", "ironsrc"],
+        "nativebanner": ["facebook", "admob"],
+        "mediumrectangle": ["facebook", "admob", "startapp"]
+    },
+    "facebook": {
+        "native": "",
+        "banner": "",
+        "interstitial": "",
+        "nativebanner": "",
+        "mediumrectangle": ""
+    },
+    "tapdaq": {
+        "app": "",
+        "client": ""
+    },
+    "yandex": {
+        "native": "R-M-1396391-1",
+        "banner": "R-M-1396391-2",
+        "interstitial": "R-M-1396391-3"
+    },
+    "admob": {
+        "publisher": "",
+        "banner": "",
+        "interstitial": "",
+        "largebanner": "",
+        "mediumrectangle": ""
+    },
+    "startapp": {
+        "app": ""
+    },
+    "ironsrc":{
+        "app": ""
+    },
+    "guide": {
+        "feauture": {
+            "title": "New Feature",
+            "article": "The Kwai app has multiple categories such as Comedy and prank sketches, Creative Lip-sync and Dubs, Lifestyle Vlogs, Funny and Adorable Animals, Individual talent; singing, dancing, instruments, magic and more, Fashion and Beauty."
+        },
+        "tip1": {
+            "title": "What does mean OMEgle ?",
+            "article": "OMEgle is one of the most popular and used video social networks. With Kwai, you can record videos and sing along to music, edit photos to make videos more interesting, attract interactivity and even make money online with Kwai."
+        },
+        "tip2": {
+            "title": "Is OMEgle safe to download?",
+            "article": "Parents want to recognize that OMEgle - Video Social Network has a questionable privateness coverage and phrases of carrier that explain customers ought to be at the least 16 years old. In reality, whilst children input their delivery date at registration, theyre allowed to sign up if below 16 (and 13) with the qualifying declaration to apply it with parental supervision."
+        },
+        "tip3": {
+            "title": "Is OMEgle kid friendly ?",
+            "article": "OMEgle videos are as short as 7 seconds only. The main feature of the kwai app is that short videos are high-quality videos and these videos can easily be edited in the inbuilt feature of the kwai app. One can edit the videos and the videos can also be shared with your own friends ."
+        },
+        "tip4": {
+            "title": "Can I be tracked on OMEglee ?",
+            "article": "OMEgle app is one of the popular social app video-sharing apps. This app is Owned by the Beijing Kwai Technology Co. Ltd. The kwai app is for creating and editing videos with more fun than before. These days there are many apps in the field of social video-sharing."
+        }
+    }
+}
