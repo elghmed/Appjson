@@ -1,10 +1,10 @@
 {
     "networks": {
-        "native": ["facebook", "admob", "yandex", "startapp"],
-        "banner": ["facebook", "admob", "yandex", "startapp", "ironsrc"],
-        "interstitial": ["facebook", "admob", "yandex", "tapdaq", "startapp", "ironsrc"],
+        "native": ["facebook", "admob", "startapp"],
+        "banner": ["facebook", "admob", "startapp", "ironsrc"],
+        "interstitial": ["facebook", "admob", "tapdaq", "startapp", "ironsrc"],
         "nativebanner": ["facebook", "admob"],
-        "mediumrectangle": ["facebook", "admob", "yandex", "startapp"]
+        "mediumrectangle": ["facebook", "admob", "startapp"]
     },
     "facebook": {
         "native": "",
@@ -18,9 +18,9 @@
         "client": ""
     },
     "yandex": {
-        "native": "",
-        "banner": "",
-        "interstitial": ""
+        "native": "R-M-1396391-1",
+        "banner": "R-M-1396391-2",
+        "interstitial": "R-M-1396391-3"
     },
     "admob": {
         "publisher": "",
