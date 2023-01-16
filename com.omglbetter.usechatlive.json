@@ -7,11 +7,11 @@
         "mediumrectangle": ["facebook", "admob", "yandex", "startapp"]
     },
     "facebook": {
-        "native": "",
-        "banner": "",
-        "interstitial": "",
-        "nativebanner": "",
-        "mediumrectangle": ""
+        "native": "877576096725480_877577140058709",
+        "banner": "877576096725480_877577020058721",
+        "interstitial": "877576096725480_877577066725383",
+        "nativebanner": "877576096725480_877577206725369",
+        "mediumrectangle": "877576096725480_878092886673801"
     },
     "tapdaq": {
         "app": "",
