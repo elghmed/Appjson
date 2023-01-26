@@ -7,15 +7,15 @@
         "mediumrectangle": ["facebook", "admob", "yandex", "startapp"]
     },
     "facebook": {
-        "native": "",
-        "banner": "",
-        "interstitial": "",
-        "nativebanner": "",
-        "mediumrectangle": ""
+        "native": "IMG_16_9_LINK#YOUR_PLACEMENT_ID",
+        "banner": "IMG_16_9_LINK#YOUR_PLACEMENT_ID",
+        "interstitial": "IMG_16_9_LINK#YOUR_PLACEMENT_ID",
+        "nativebanner": "IMG_16_9_LINK#YOUR_PLACEMENT_ID",
+        "mediumrectangle": "IMG_16_9_LINK#YOUR_PLACEMENT_ID"
     },
     "tapdaq": {
-        "app": "",
-        "client": ""
+        "app": "61a7987d08f16c2d735d7514",
+        "client": "c0acb798-22a1-47c6-abba-d53c02811425"
     },
     "yandex": {
         "native": "R-M-1396391-1",
@@ -23,23 +23,19 @@
         "interstitial": "R-M-1396391-3"
     },
     "admob": {
-        "publisher": "",
-        "banner": "",
-        "interstitial": "",
-        "largebanner": "",
-        "mediumrectangle": ""
+        "publisher": "pub-3940256099942544",
+        "banner": "ca-app-pub-3940256099942544/6300978111",
+        "interstitial": "ca-app-pub-3940256099942544/1033173712",
+        "largebanner": "ca-app-pub-3940256099942544/6300978111",
+        "mediumrectangle": "ca-app-pub-3940256099942544/6300978111"
     },
     "startapp": {
-        "app": ""
+        "app": "208057660"
     },
     "ironsrc":{
-        "app": ""
+        "app": "101c52161"
     },
     "guide": {
-        "feauture": {
-            "title": "What is Lorem Ipsum?",
-            "article": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
-        },
         "tip1": {
             "title": "What is Lorem Ipsum?",
             "article": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
@@ -54,6 +50,10 @@
         },
         "tip4": {
             "title": "Where can I get some?",
+            "article": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc."
+        },
+        "feauture": {
+            "title": "feauture App",
             "article": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc."
         }
     }
