@@ -1,0 +1,122 @@
+{
+    "IsUnderMaintenance": false,
+    "NewAppLink": "",
+    "IsAppOn": true,
+    "UnitType": {
+        "BannerType": "",
+        "InterType": "",
+        "NativeType": "",
+        "rewardType": ""
+    },
+    "Cpa": {
+        "IsOn": true,
+        "Title": "offer Title",
+        "ShortDescription": "offer short discription ",
+        "ImgLink": "https://profitsocial.com/blog/wp-content/uploads/profitsocial/best-cpa-offers.jpg",
+        "BtnText": "Get Offer",
+        "Link": "https://youtube.com"
+    },
+    "Facebook": {
+        "IsOn": false,
+        "Banner": "826679171300438_1284668872168130",
+        "Inter": "826679171300438_1284668938834790",
+        "Native": "826679171300438_1284669018834782",
+        "Reward": "826679171300438_1284669105501440"
+    },
+    "Applovin": {
+        "IsOn": true,
+        "Banner": "60c8357739429959",
+        "Inter": "a4afbe084a8d5bcd",
+        "Native": "a1503840e0d2586e",
+        "Reward": "ac0511a6c3e649fb"
+    },
+    "yandex": {
+        "IsOn": true,
+        "Banner": "R-M-1651284-1",
+        "Inter": "R-M-1651284-3",
+        "Native": "R-M-DEMO-native-i",
+        "Reward": "demo-rewarded-yandex"
+    },
+    "StartApp": {
+        "IsOn": true,
+        "AppId": "205662312"
+    },
+    "Unity": {
+        "IsOn": true,
+        "AppId": "4498253",
+        "Banner": "Banner_Android",
+        "Inter": "Interstitial_Android",
+        "Reward": "Rewarded_Android"
+    },
+    "Guides": [
+        {
+            "Title": "title1 ",
+            "Description": " content",
+            "Img":"https://www.simplilearn.com/ice9/free_resources_article_thumb/what_is_image_Processing.jpg"
+        },
+        {
+            "Title": "title2 ",
+            "Description": " content",
+            "Img":""
+        },
+        {
+            "Title": "title3 ",
+            "Description": " content",
+            "Img":""
+        },
+        {
+            "Title": "title 4",
+            "Description": " content",
+            "Img":""
+        },
+        {
+            "Title": "title 5",
+            "Description": " content",
+            "Img":""
+        },
+        {
+            "Title": "title 6",
+            "Description": " content",
+            "Img":""
+        },
+        {
+            "Title": "title 7",
+            "Description": " content",
+            "Img":""
+        },
+        {
+            "Title": "title 8",
+            "Description": " content",
+            "Img":""
+        },
+        {
+            "Title": "title 9",
+            "Description": " content",
+            "Img":""
+        },
+        {
+            "Title": "title 10",
+            "Description": " content",
+            "Img":""
+        },
+        {
+            "Title": "title 11",
+            "Description": " content",
+            "Img":""
+        },
+        {
+            "Title": "title 12",
+            "Description": " content",
+            "Img":""
+        },
+        {
+            "Title": "How do I upgrade a truck?",
+            "Description": "You can upgrade the ",
+            "Img":""
+        },
+        {
+            "Title": "How do I unlock n",
+            "Description": " The main way to unlock new levels is to go through previous levels.Some subsequent levels in the "
+        }
+    ]
+}
