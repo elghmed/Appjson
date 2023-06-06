@@ -24,7 +24,7 @@
         "Reward": "826679171300438_1284669105501440"
     },
     "Applovin": {
-        "IsOn": true,
+        "IsOn": false,
         "Banner": "60c8357739429959",
         "Inter": "a4afbe084a8d5bcd",
         "Native": "a1503840e0d2586e",
@@ -38,11 +38,11 @@
         "Reward": "demo-rewarded-yandex"
     },
     "StartApp": {
-        "IsOn": true,
+        "IsOn": false,
         "AppId": "205662312"
     },
     "Unity": {
-        "IsOn": true,
+        "IsOn": false,
         "AppId": "4498253",
         "Banner": "Banner_Android",
         "Inter": "Interstitial_Android",
