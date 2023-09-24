@@ -1,0 +1,102 @@
+{    
+    "OneSignalKey":"66329c4a-09c4-48b9-b47a-7978cfc38943",
+    "IsUnderMaintenance": false,
+    "NewAppLink": "https://play.google.com/store/apps/details?id=com.plarium.raidlegends",
+    "IsAppOn": true,
+    "UnitType": {
+        "BannerType": "Facebook",
+        "InterType": "",
+        "NativeType": "",
+        "rewardType": ""
+    },
+    "Cpa": {
+        "IsPopOn": true,
+        "IsNativeOn": true,
+        "Popup":[
+            {
+            "Title": "offer Title1",
+            "ShortDescription": "offer short discription ",
+            "ImgLink": "https://partners.vantagemarkets.com/storage/2023/05/Cpa-marketing-tips-1024x683.jpg",
+            "BtnText": "Get Offer",
+            "Link": "https://youtube.com"
+            },
+            {
+            "Title": "offer Title2",
+            "ShortDescription": "offer short discription ",
+            "ImgLink": "https://partners.vantagemarkets.com/storage/2023/05/Cpa-marketing-tips-1024x683.jpg",
+            "BtnText": "Get Offer",
+            "Link": "https://youtube.com"
+            },
+            {
+            "Title": "offer Title3",
+            "ShortDescription": "offer short discription ",
+            "ImgLink": "https://partners.vantagemarkets.com/storage/2023/05/Cpa-marketing-tips-1024x683.jpg",
+            "BtnText": "Get Offer",
+            "Link": "https://youtube.com"
+            },
+            {
+            "Title": "offer Title4",
+            "ShortDescription": "offer short discription ",
+            "ImgLink": "https://partners.vantagemarkets.com/storage/2023/05/Cpa-marketing-tips-1024x683.jpg",
+            "BtnText": "Get Offer",
+            "Link": "https://youtube.com"
+            }
+        ],
+        "Native":[
+            {
+                "Title": "offer Title1",
+                "ShortDescription": "offer short discription ",
+                "ImgLink": "https://partners.vantagemarkets.com/storage/2023/05/Cpa-marketing-tips-1024x683.jpg",
+                "BtnText": "Get Offer",
+                "Link": "https://youtube.com"
+                },
+                {
+                "Title": "offer Title2",
+                "ShortDescription": "offer short discription ",
+                "ImgLink": "https://partners.vantagemarkets.com/storage/2023/05/Cpa-marketing-tips-1024x683.jpg",
+                "BtnText": "Get Offer",
+                "Link": "https://youtube.com"
+                }
+        ]
+        
+    },
+    "Facebook": {
+        "IsOn": true,
+        "Banner": "826679171300438_1284668872168130",
+        "Inter": "826679171300438_1284668938834790",
+        "Native": "826679171300438_1284669018834782",
+        "Reward": "826679171300438_1284669105501440"
+    },
+    "Applovin": {
+        "IsOn": false,
+        "Banner": "60c8357739429959",
+        "Inter": "a4afbe084a8d5bcd",
+        "Native": "a1503840e0d2586e",
+        "Reward": "ac0511a6c3e649fb"
+    },
+    "yandex": {
+        "IsOn": true,
+        "Banner": "R-M-1651284-1",
+        "Inter": "R-M-1651284-3",
+        "Native": "R-M-DEMO-native-i",
+        "Reward": "demo-rewarded-yandex"
+    },
+    "StartApp": {
+        "IsOn": false,
+        "AppId": "205662312"
+    },
+    "Unity": {
+        "IsOn": false,
+        "AppId": "4498253",
+        "Banner": "Banner_Android",
+        "Inter": "Interstitial_Android",
+        "Reward": "Rewarded_Android"
+    },
+    "Guides": [
+        {
+            "Title": "title1 ",
+            "Description": " content",
+            "Img":"https://www.simplilearn.com/ice9/free_resources_article_thumb/what_is_image_Processing.jpg"
+        }
+    ]
+}
