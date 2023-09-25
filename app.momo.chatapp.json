@@ -1,8 +1,8 @@
 {    
     "OneSignalKey":"66329c4a-09c4-48b9-b47a-7978cfc38943",
-    "IsUnderMaintenance": true,
+    "IsUnderMaintenance": false,
     "NewAppLink": "https://play.google.com/store/apps/details?id=com.plarium.raidlegends",
-    "IsAppOn": false,
+    "IsAppOn": true,
     "UnitType": {
         "BannerType": "Facebook",
         "InterType": "",
